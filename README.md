@@ -1,4 +1,4 @@
-# Kilgore, Dorman, Reilly Family Website
+#Kilgore, Dorman, Reilly Family Website
 
 This is the official Kilgore-Dorman-Reilly Family website for all of our website related needs. 
 
@@ -35,3 +35,12 @@ This is the official Kilgore-Dorman-Reilly Family website for all of our website
 - [ ] Create ios shortcut
 - [ ] Share with family 
 
+
+## Chores Lists
+### Max
+#### Weekly
+- Files
+- Preventative Car Maintenence
+- Laundry
+- Bedsheets
+- Towels
