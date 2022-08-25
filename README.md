@@ -4,12 +4,12 @@ This is the official Kilgore-Dorman-Reilly Family website for all of our website
 
 ### Goals
 
-- [√] Create Github pages
-- [√] Create README.md
-- [√] Create index.html
+- [x] Create Github pages
+- [x] Create README.md
+- [x] Create index.html
 - [ ] Create stylesheet.css
-- [√] Create kitchen_checklist.html
-- [√] Add link kitchen checklist link to index
+- [x] Create kitchen_checklist.html
+- [x] Add link kitchen checklist link to index
 - [ ] Publish Website
 - [ ] Create list of chores
 	- [ ] Max's chores
